@@ -8,12 +8,12 @@ Allows users to customize image parameters such as size, color, and texture
 Saves generated images locally for easy access
 Allows users to share generated images on social media
 Getting Started
-Clone the repository: git clone https://github.com/your-username/image-generator.git
+Clone the repository: git clone https://github.com/Mojimoney/image-generator.git
 Install dependencies: npm install
-Replace PASTE-YOUR-API-KEY with your actual API key in the Script.js file (if using a third-party API)
+Replace PASTE-YOUR-API-KEY with your actual API key in the Script.js file 
 Start the image generator: npm start
 Usage
-Open the image generator in your web browser: http://localhost:3000
+Open the image generator in your web browser: https://mojimoney.github.io/ImageCreator/image.html
 Select an image style or theme from the dropdown menu
 Customize image parameters such as size, color, and texture using the sliders and input fields
 Click the "Generate Image" button to create a new image
@@ -26,8 +26,7 @@ Developers can extend the image generator by adding new AI algorithms or image p
 Contributing
 Contributions are welcome! If you'd like to contribute to the image generator, please fork the repository and submit a pull request.
 
-License
-The image generator is licensed under the MIT License.
+
 
 Dependencies
 Html
